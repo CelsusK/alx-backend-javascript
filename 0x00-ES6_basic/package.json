@@ -1,0 +1,26 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/CelsusK/alx-backend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CelsusK/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/CelsusK/alx-backend-javascript#readme",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "eslint": "^9.11.1",
+    "jest": "^29.7.0"
+  }
+}
