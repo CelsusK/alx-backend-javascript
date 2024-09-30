@@ -5,10 +5,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/CelsusK/alx-backend-javascript.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
